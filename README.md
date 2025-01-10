@@ -1,5 +1,52 @@
-# 💫 About Me:
-## About Me<br><br>👋 Hey, I'm Raghvendra<br><br>🎓 I'm currently a computer science diploma student with a strong passion for technology and a focus on learning DevOps practices. My journey in the world of computer science began when I embarked on this exciting educational path.<br><br>💻 I'm dedicated to bridging the gap between development and operations by delving into the world of DevOps. I'm fascinated by automation, continuous integration, and the ways in which they enhance software development and deployment.<br><br>🌱 As a student, I'm committed to continuous learning, striving to acquire skills in tools like Docker, Kubernetes, CI/CD pipelines, and more. I believe that DevOps principles are essential in modern software development, and I'm eager to apply them in real-world scenarios.<br><br>🚀 I'm thrilled to be a part of the GitHub community, where I can share my DevOps projects, collaborate with other like-minded developers, and contribute to open-source initiatives that promote efficient development and deployment practices.<br><br>🔗 You can connect with me on [LinkedIn](https://www.linkedin.com/in/adarsh-singh-rajawat-8a2792257/) to learn more about my academic journey and my progress in mastering DevOps concepts and tools.<br><br>Let's automate, deploy, and iterate together in the world of DevOps! 🚀💡<br>
+# Hi there! 👋 I'm Raghvendra Singh  
+
+### About Me  
+- 🚀 **DevOps Engineer** with hands-on experience in automating workflows, managing infrastructure, and optimizing development pipelines.  
+- 🎓 Completed my **Diploma in Engineering** and currently pursuing a **B.Tech** degree.  
+- 💼 Currently working at **MoreYeahs Pvt. Ltd.**, where I am exploring and mastering modern DevOps practices.  
+- 📘 Passionate about leveraging DevOps tools and cloud technologies to drive efficiency and scalability.  
+
+---
+
+### Skills & Expertise  
+#### DevOps Tools & Technologies  
+- **System Administration**: Proficient in **Linux** for managing and maintaining servers.  
+- **Version Control**: Skilled in **Git** and **GitHub** for collaborative development and version management.  
+- **CI/CD**: Experienced in setting up pipelines using tools like **Jenkins** and **GitHub Actions**.  
+- **Containerization & Orchestration**:  
+  - **Docker**: Dockerized multiple applications to streamline deployment and scaling.  
+  - **Kubernetes**: Practiced container orchestration for managing and scaling workloads effectively.  
+- **Cloud Infrastructure**:  
+  - Hands-on experience with **Google Cloud Platform (GCP)** for managing and deploying cloud-based applications.  
+  - Monitored and optimized infrastructure performance.  
+- **Databases**: Familiar with managing and monitoring **Redis**, **MongoDB**, and **GCP's in-built MySQL**.  
+
+#### Notable Projects  
+- 🐳 **Dockerized Applications**:  
+  - Successfully containerized multiple applications to simplify deployment and ensure consistency across environments.  
+  - [Link to Dockerized Applications Repository](#) *(Replace with your repo link)*  
+
+- ☸️ **Kubernetes Practices**:  
+  - Deployed and managed containerized applications using Kubernetes.  
+  - [Link to Kubernetes Practices Repository](#) *(Replace with your repo link)*  
+
+---
+
+### What I’m Currently Learning  
+- Advanced CI/CD strategies for multi-environment deployments.  
+- Infrastructure as Code (IaC) with **Terraform** and **CloudFormation**.  
+- Monitoring and observability with tools like **Prometheus** and **Grafana**.  
+
+---
+
+### Connect with Me  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile) *(Replace with your LinkedIn profile link)*  
+- 📧 Email: raghvendra.singh@example.com *(Replace with your email)*  
+
+---
+
+💡 *"In the ever-evolving world of technology, continuous learning is the key to success."*  
+
 
 
 ## 🌐 Socials:
