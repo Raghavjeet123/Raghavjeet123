@@ -10,8 +10,8 @@
 
 ### Skills & Expertise  
 #### DevOps Tools & Technologies  
-- **System Administration**: Proficient in **Linux** for managing and maintaining servers.  
-- **Version Control**: Skilled in **Git** and **GitHub** for collaborative development and version management.  
+- **System Administration**: **Linux** for managing and maintaining servers.  
+- **Version Control**: **Git** and **GitHub** for collaborative development and version management.  
 - **CI/CD**: Experienced in setting up pipelines using tools like **Jenkins** and **GitHub Actions**.  
 - **Containerization & Orchestration**:  
   - **Docker**: Dockerized multiple applications to streamline deployment and scaling.  
@@ -24,11 +24,11 @@
 #### Notable Projects  
 - 🐳 **Dockerized Applications**:  
   - Successfully containerized multiple applications to simplify deployment and ensure consistency across environments.  
-  - [Link to Dockerized Applications Repository](#) *(Replace with your repo link)*  
+  - [Link to Dockerized Applications Repository](#)   
 
 - ☸️ **Kubernetes Practices**:  
   - Deployed and managed containerized applications using Kubernetes.  
-  - [Link to Kubernetes Practices Repository](#) *(Replace with your repo link)*  
+  - [Link to Kubernetes Practices Repository](#)  
 
 ---
 
