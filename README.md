@@ -40,8 +40,8 @@
 ---
 
 ### Connect with Me  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile) *(Replace with your LinkedIn profile link)*  
-- 📧 Email: raghvendra.singh@example.com *(Replace with your email)*  
+- 🌐 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/raghvendra-pratap-singh-a2b516297/?originalSubdomain=in))   
+- 📧 Email: baishlaraghvendra@gmail.com  
 
 ---
 
